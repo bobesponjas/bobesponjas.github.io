@@ -56,6 +56,17 @@
   color: black;
   box-shadow: none;
 }
+
+.Pez{
+ width: 100px;
+ height: 100px;
+ margin-top: 150px;
+}
+footer {
+  text-align: center;
+}
+
+
 @media (min-width: 780px){
   .pata {
     width: 100%;
@@ -133,4 +144,10 @@
       display: flex;
       position: relative; 
     }
+
+    .Pez{
+      width: 60px;
+      height: 60px;
+      margin-top: 240px;
+     }
 }
